@@ -36,7 +36,7 @@ Our analysis revealed some fascinating connections between books. Here are some 
 ## 📈 Performance
 
 The program efficiently processes 64 books and performs:
-- Word frequency analysis across entire corpus
+- Word frequency analysis across the entire corpus
 - 2,016 unique book-to-book comparisons
 - Similarity ranking and sorting
 
@@ -77,4 +77,4 @@ Special thanks to:
 ---
 *Created with ❤️ by a passionate programmer*
 
-*Submittion from* - ##IITGCS-24061391(WebNerd69 / Rudra Pratap Roy)
+*Submittion from* - ##IITGCS-2406738
